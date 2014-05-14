@@ -1,0 +1,16 @@
+{
+    "eqeqeq": true,
+    "es3": true,
+    "immed": true,
+    "indent": 4,
+    "latedef": true,
+    "nonbsp": true,
+    "quotmark": true,
+    "undef": true,
+    "unused": true,
+    "strict": true,
+    "maxparams": 4,
+
+    "browser": true,
+    "jquery": true
+}
